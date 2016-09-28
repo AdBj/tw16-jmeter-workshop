@@ -1,0 +1,4 @@
+url,respcode
+"/users.json","200"
+"/users/jack.json","200"
+"/userss/jack.json","404"

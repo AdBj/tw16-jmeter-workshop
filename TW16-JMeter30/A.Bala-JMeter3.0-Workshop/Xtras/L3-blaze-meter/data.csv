@@ -1,0 +1,3 @@
+labelId,labelName,samples,avgResponseTime,90line,95line,99line,minResponseTime,maxResponseTime,avgLatency,geoMeanResponseTime,stDev,duration,avgBytes,avgThroughput,medianResponseTime,errorsCount,errorsRate,hasLabelPassedThresholds
+ALL,ALL,6471,771.643,2187,2399,6739,80,83623,771.576,209.155,3336.335,1199,1.899,5.397,101,10,0.155,
+d6ef1fea9e3bd1d2755ebb605bcd7549,"My first url",6471,771.643,2187,2399,6739,80,83623,771.576,209.155,3336.335,1199,1.899,5.397,101,10,0.155,
